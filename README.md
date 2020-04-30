@@ -10,6 +10,7 @@ OpenCore EFI for MSI B450 Gaming Plus motherboard
 :exclamation: Latest AMD Vanilla patch included (as of 30/04/2020).
 
 **EFI Folder for OpenCore Bootloader, version 0.5.7**
+
 Created with the help of [OpenCore Vanilla Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
 
 ### System Components
